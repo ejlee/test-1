@@ -74,4 +74,4 @@ document.write(today);
 - ![이미지텍스트](./이미지 경로)
 
 ![fantasy](./images/fantasy.jpg)
-![pf2](https://user-images.githubusercontent.com/56223139/165875437-2ec80b22-6709-44b5-9e67-e60758663dfb.png)
+![pf2](https://user-i![cover](https://user-images.githubusercontent.com/3917188/201639084-5e564b00-bbaf-4092-a35f-bf34d1e420b6.jpg)
