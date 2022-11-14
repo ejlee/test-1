@@ -73,5 +73,5 @@ document.write(today);
 - 파일탐색기에서 이미지를 직접 드래그
 - ![이미지텍스트](./이미지 경로)
 
-![storm](./images/storm.jpg)
+![fantasy](./images/fantasy.jpg)
 ![pf2](https://user-images.githubusercontent.com/56223139/165875437-2ec80b22-6709-44b5-9e67-e60758663dfb.png)
